@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 
 .left-links {
@@ -23,7 +24,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  align-self: center;
 }
 
 ul {
