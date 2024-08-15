@@ -8,13 +8,13 @@
 
 .left-links {
   display: flex;
-  align-self: flex-start;
+  align-self: center;
   justify-content: flex-start;
 }
 
 .right-links {
   display: flex;
-  align-self: flex-end;
+  align-self: center;
   justify-content: flex-end;
 }
 
