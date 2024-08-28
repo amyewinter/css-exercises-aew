@@ -14,9 +14,19 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: space-between;
   padding-left: 8px;
   padding-right: 8px;
+}
+
+.left {
+  display: flex;
+  gap: 16px;
+}
+
+.right {
+  display: flex;
+  gap: 16px;
 }
 
 .links {
