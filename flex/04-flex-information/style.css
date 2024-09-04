@@ -17,16 +17,14 @@ img {
 .flex-group {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .item {
   display: flex;
   max-width: 200px;
   flex-wrap: wrap;
-}
-
-.text {
-  text-align: center;
+  justify-content: center;
 }
 
 /* do not edit this footer */
