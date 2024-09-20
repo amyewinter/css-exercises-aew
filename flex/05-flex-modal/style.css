@@ -38,9 +38,7 @@ body {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+align-self: flex-start;
 }
 
 .close-button {
@@ -51,9 +49,7 @@ body {
   font-size: 16px;
   height: 24px;
   width: 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+align-self: flex-end;
   border: 1px solid #eee;
   padding: 0;
 }
