@@ -54,6 +54,11 @@ align-self: flex-end;
   padding: 0;
 }
 
+.text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
